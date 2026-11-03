@@ -1,0 +1,17 @@
+{
+  "name": "genpark-personal-agent-pulmonary-transcutaneous-co2-tcpco2-monitoring-skill",
+  "version": "1.0.0",
+  "description": "Calculates temperature-metabolic corrected arterial PaCO2 from raw transcutaneous TcPCO2, computes transcutaneous-to-end-tidal gradient, and stratifies hypercapnic respiratory failure.",
+  "author": "AlphaPark",
+  "license": "Apache-2.0",
+  "main": "client.py",
+  "mcp": "mcp_server.py",
+  "categories": [
+    "personal-agent",
+    "pulmonary",
+    "critical-care",
+    "transcutaneous-co2",
+    "arterial-blood-gas"
+  ],
+  "dependencies": []
+}
